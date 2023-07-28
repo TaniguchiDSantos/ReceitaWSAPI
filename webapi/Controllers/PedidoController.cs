@@ -1,5 +1,4 @@
-﻿using FluentAssertions.Common;
-using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ReceitaWSAPI.Application.Interfaces;
 using ReceitaWSAPI.Application.Models;
