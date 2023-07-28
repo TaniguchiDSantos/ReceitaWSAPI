@@ -7,9 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ReceitaWSAPI.Application\ReceitaWSAPI.Application.csproj" />
-    <ProjectReference Include="..\..\ReceitaWSAPI.Data\ReceitaWSAPI.Data.csproj" />
-    <ProjectReference Include="..\..\ReceitaWSAPI.Domain\ReceitaWSAPI.Domain.csproj" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
   </ItemGroup>
 
 </Project>

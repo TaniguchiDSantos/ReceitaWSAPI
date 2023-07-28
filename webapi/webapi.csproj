@@ -14,7 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ReceitaWSAPI.Data\ReceitaWSAPI.Data.csproj" />
     <ProjectReference Include="..\ReceitaWSAPI.Infra.CrossCutting.IoC\ReceitaWSAPI.Infra.CrossCutting.IoC.csproj" />
   </ItemGroup>
 
