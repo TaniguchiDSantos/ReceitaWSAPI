@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\ReceitaWSAPI.Application\ReceitaWSAPI.Application.csproj" />
+    <ProjectReference Include="..\..\ReceitaWSAPI.Data\ReceitaWSAPI.Data.csproj" />
+    <ProjectReference Include="..\..\ReceitaWSAPI.Domain\ReceitaWSAPI.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
