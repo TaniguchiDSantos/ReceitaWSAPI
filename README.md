@@ -20,8 +20,13 @@
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7090829661093380096/">Vídeo da Aplicação</a>
 
 ## Pré-requisitos
-Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:
-[Visual Studio 2022]([https://git-scm.com](https://visualstudio.microsoft.com/pt-br/vs/community/)https://visualstudio.microsoft.com/pt-br/vs/community/). 
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Visual Studio 2022](https://visualstudio.microsoft.com/pt-br/vs/community/).
+[Microsoft Management Studio](https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16).
+
+## 🧭 Rodando a aplicação web (Frontend)
+- Acesse o repositório do Front End:
+  [Front-End](https://github.com/TaniguchiDSantos/ReceitaWS_FRONT)
 
 ## 🎲 Rodando o Back End (servidor)
 - 1 Abra o Visual Studio 2022
@@ -29,6 +34,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 - 3 Digite: https://github.com/TaniguchiDSantos/ReceitaWSAPI
 - 4 Escolha uma pasta
 - 5 Clique em "Clone"
+- 6 Execute esse script para criar as tabelas no banco de dados:
+  [Script](https://github.com/TaniguchiDSantos/ReceitaWS_FRONT/blob/master/ReceitaWSScrip.sql)
 
 ## 🛠 Tecnologias
 
