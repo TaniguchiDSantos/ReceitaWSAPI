@@ -40,7 +40,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [XUnit](https://xunit.net/)
 
 ## Autor
----
 
 <a href="https://www.linkedin.com/in/taniguchi-santos/">
  <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQHFMq-JVRgQag/profile-displayphoto-shrink_200_200/0/1688444569138?e=1696464000&v=beta&t=18MhadZ79NeOr7cK3hDAvXgjnLi6bOOGR-NSnod9GUI" width="100px;" alt=""/>
